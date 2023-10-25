@@ -1,2 +1,2 @@
 # Computing-Group-Work
-COmputing work 
+Computing work 
